@@ -1,0 +1,11 @@
+.idea
+db.sqlite3
+.DS_Store
+
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+media
